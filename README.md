@@ -8,6 +8,9 @@ Service (CRD) for view status public services run in K8S
 ```
 version: status.v1
 kind: status-page
+spec:
+  title: go-auth
+  description: Serive JWT-authentication
 ```
 
 2. Aggregate all `status-page` in one page
