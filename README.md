@@ -1,5 +1,5 @@
 # status-operator
-Service (CRD) for view status public services run in K8S
+Service (CRD) for reviwing the status of public services run in K8S
 
 ### How does it work?
 
